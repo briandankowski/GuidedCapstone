@@ -1,0 +1,6 @@
+Model,Explained Variance,Mean Absolute Error
+Model 1,0.941,4.92
+Model 2,0.93,5.34
+Model 3,0.926,5.47
+Model 4,0.925,5.54
+Model 5,0.195,15.59
